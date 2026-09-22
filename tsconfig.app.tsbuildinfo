@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/api.ts","./src/main.tsx","./src/components/SpanDetail.tsx","./src/components/TraceList.tsx","./src/components/TraceWaterfall.tsx","./src/components/WaterfallChart.tsx","./src/lib/format.ts","./src/lib/spanTree.test.ts","./src/lib/spanTree.ts","./shared/trace.ts"],"version":"5.9.3"}
